@@ -1,0 +1,2 @@
+module pratica_1 {
+}

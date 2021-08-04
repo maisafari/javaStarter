@@ -1,0 +1,10 @@
+jeeexample\repositories\EntityRepository.class
+jeeexample\models\Entity_.class
+jeeexample\repositories\MessageRepository.class
+jeeexample\App.class
+jeeexample\models\User.class
+jeeexample\models\Message.class
+jeeexample\repositories\UserRepository.class
+jeeexample\services\MessageService.class
+jeeexample\services\EntityService.class
+jeeexample\services\UserService.class
